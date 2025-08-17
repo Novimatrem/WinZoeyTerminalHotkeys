@@ -3,3 +3,11 @@
 An AutoHotkey v2 script for Windows that binds Ctrl+Alt+T and Win+T to launch Git Bash inside Windows Terminal. On first run, it automatically creates a .bashrc file in the user folder with logic to execute an external script named winzoeybashrc.sh from %userprofile% via Bash. If that external script doesn't exist, the script also creates it and populates it with a sample line: echo meow.
 
 The AHK code in this repository was vibe coded by myself and Microsoft Copilot AI. This is the first time I ever tried such a thing. If this is repulsive to you, I understand, simply do not use or engage with the script. The reason I resorted to such a method for the first time in my life, is that it wasn't my damn fucking fault that I had to migrate to Windows, and I had absolutely no desire to engage with the operating system beyond where I was forced to, so putting more effort than was required out of me to make this essential component of my setup work wasn't going to happen. I'm not putting passion into something for Windows, by Microsoft. I vibe coded this out of a disrespect for Windows, Microsoft, and software designed to run on it exclusively. I wasn't going to put my own passion and effort into something for this operating system that I wish to die in a fire. Windows sucks ass. Switch to Linux, script things in Bash, have a better life than the shitty circumstance I've been forced into.
+
+# Discontinuation
+
+35 days. that's 1 month and 4 days. that's how long I could stand trying to use Windows before I couldn't bare it any longer and had to move back to linux, whatever the cost. this repo is therefore archived, development will not continue.
+
+be back soon, to either Trisquel, Ubuntu MATE, or Xubuntu's newest releases.
+
+and a big ol' fuck you to vibe coding.
